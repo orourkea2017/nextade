@@ -1,0 +1,14 @@
+{
+  "extends": "eslint-config-airbnb",
+  "rules": {
+    "react/jsx-filename-extension": [
+      "warn",
+      {
+        "extensions": [
+          ".jsx",
+          ".tsx"
+        ]
+      }
+    ]
+  }
+}
